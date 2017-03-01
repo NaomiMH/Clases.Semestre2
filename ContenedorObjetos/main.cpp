@@ -1,7 +1,6 @@
 /**
  * Naomi Macias Honti a01282098
  * 27 de febrero 2017
- * 50 lineas mas 7 de comentarios. 57 en total.
  * 3 hr.
  * Lee los datos de un archivo csv y permite buscar en base a la informacion obtenida, borrar y crear nuevos datos en la lista que se guardan.
  */
