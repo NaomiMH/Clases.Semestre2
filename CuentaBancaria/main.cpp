@@ -1,3 +1,9 @@
+/**
+ * Naomi Macias Honti a01282098
+ * 01 de marzo 2017
+ * Tiempo no estimado.
+ * Recibe informacion de un archivo, el usuario teclea su cuenta, retira o deposita dinero y el archivo es actualizado.
+ */
 #include <iostream>
 #include <fstream>
 
