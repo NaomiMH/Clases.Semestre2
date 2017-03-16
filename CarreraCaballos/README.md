@@ -1,7 +1,5 @@
 # CarreraCaballos
 
-Naomi Macias Honti a01282098
-
 16 de marzo 2017
 
 Tiempo no estimado.
