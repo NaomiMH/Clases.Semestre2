@@ -1,7 +1,7 @@
 # Clases.Semestre2.Ahorcado
-Programacion Orientada a Objetos
+Clase: Programacion Orientada a Objetos
 
-Guillermo Jimenez Perez
+Profesor: Guillermo Jimenez Perez
 
 Enero-Mayo 2017 grupo 7
 
