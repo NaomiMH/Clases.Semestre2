@@ -1,0 +1,7 @@
+1 X B C D E F G H I J K X M N O P Q R S 
+2 X B C D E F G H I J X L X N O P Q R S 
+3 X B C D E F G H I J K L M X O P Q R S 
+4 A X C D E F G H I X K X M N O P Q R S 
+5 X B C D E F G H I J K L M N O P Q R S 
+6 A B C D E F G H I J K L M N O P Q R S 
+7 A B C D E F G H I J K L M N O P Q R S 
