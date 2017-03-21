@@ -4,10 +4,6 @@
 
 string palabraX[15]={""};
 
-Ahorcado::Ahorcado(){
-
-}
-
 void Ahorcado::iniciar(string palabraP)
 {
     palabra = palabraP;
@@ -37,9 +33,8 @@ void Ahorcado::mostrarEscenario(){
     cout << "Intentadas: " << intentosL << endl;
 }
 
-///Busca todas las instancias de la 'letra' en la 'palabra'
 void Ahorcado::comprobarLetra(char letra){
-    bool estado = false; ///Entro por lo menos una letra en la palabra?
+    bool estado = false;
     if(intentosL.find(letra)==-1){
         intentosL += letra;
         contador=0;
