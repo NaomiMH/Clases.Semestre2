@@ -8,7 +8,6 @@ using namespace std;
 
 class Ahorcado{
     public:
-        Ahorcado();
         void iniciar(string);
         void mostrarEscenario();
         void comprobarLetra(char);
