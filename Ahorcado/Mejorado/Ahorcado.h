@@ -6,7 +6,6 @@
 
 using namespace std;
 
-///El programa termina cuando se cometen 7 fallos
 class Ahorcado{
     public:
         Ahorcado();
