@@ -2,7 +2,7 @@
 #include <string>
 #include "Ahorcado.h"
 
-string palabraX[15]={""};
+string palabraX[14]={""};
 
 Ahorcado::Ahorcado(){
 
