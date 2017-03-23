@@ -1,4 +1,4 @@
-# Clases.Semestre2.Ahorcado
+# Clases.Semestre2.POO
 Clase: Programacion Orientada a Objetos
 
 Profesor: Guillermo Jimenez Perez
