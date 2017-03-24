@@ -1,0 +1,30 @@
+Matriz A
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+1 2 3 4 
+Matriz B
+5 6 7 8 
+5 6 7 8 
+5 6 7 8 
+5 6 7 8 
+Resultado de la suma de matrices cuadradas A+B
+6 8 10 12 
+6 8 10 12 
+6 8 10 12 
+6 8 10 12 
+Resultado de la resta de matrices cuadradas B-A
+4 4 4 4 
+4 4 4 4 
+4 4 4 4 
+4 4 4 4 
+Resultado de la matriz transpuesta de A
+1 1 1 1 
+2 2 2 2 
+3 3 3 3 
+4 4 4 4 
+Resultado de la multiplicacion de matrices cuadradas A*B
+5 12 21 32 
+5 12 21 32 
+5 12 21 32 
+5 12 21 32 
