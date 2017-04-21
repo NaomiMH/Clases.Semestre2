@@ -2,7 +2,7 @@
  * Naomi Macias Honti a01282098
  * 21 de abril 2017
  * Tiempo no estimado.
- * Lee un archivo con instrucciones para crear un dibujo en un arreglo que muestra y arregla .
+ * Lee un archivo con instrucciones para crear un dibujo en un arreglo que muestra y lo guarda las instrucciones (comentario pasos) en un archivo.
  */
 #include <iostream>
 
