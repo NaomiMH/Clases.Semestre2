@@ -1,0 +1,17 @@
+penDown
+forward	15
+right
+forward	30
+right
+forward	4
+right
+forward	18
+left
+forward	5
+right
+forward	5
+left
+forward	6
+right
+forward	7
+end
