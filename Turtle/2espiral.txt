@@ -1,0 +1,33 @@
+forward	20
+right
+forward	20
+left
+penDown
+forward	2
+right
+forward	2
+right
+forward	4
+right
+forward	4
+right
+forward	6
+right
+forward	6
+right
+forward	8
+right
+forward	8
+right
+forward	10
+right
+forward	10
+right
+forward	12
+right
+forward	12
+right
+forward	14
+right
+forward	14
+end
