@@ -1,0 +1,76 @@
+penDown
+forward	12
+right
+forward	30
+right
+forward	1
+right
+forward	30
+left
+forward	1
+left
+forward	30
+right
+forward	1
+right
+forward	18
+penUp
+forward	5
+penDown
+forward	7
+left
+forward	1
+left
+forward	6
+penUp
+forward	5
+penDown
+forward	1
+right
+forward	1
+right
+penUp
+forward	5
+pendown
+forward	7
+left
+forward	1
+left
+forward	12
+right
+right
+forward	12
+left
+forward	1
+left
+forward	6
+right
+forward	1
+right
+forward	6
+left
+forward	1
+left
+forward	6
+right
+forward	1
+right
+forward	6
+left
+forward	1
+left
+forward	6
+penup
+forward	2
+left
+forward	9
+penDown
+left
+left
+forward	2
+penup
+forward	1
+left
+penDown
+forward	1
+end
