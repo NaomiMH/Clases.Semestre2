@@ -1,0 +1,33 @@
+5 20	forward
+3		right
+5 20	forward
+4		left
+2		penDown
+5 2		forward
+3		right
+5 2		forward
+3		right
+5 4		forward
+3		right
+5 4		forward
+3		right
+5 6		forward
+3		right
+5 6		forward
+3		right
+5 8		forward
+3		right
+5 8		forward
+3		right
+5 10	forward
+3		right
+5 10	forward
+3		right
+5 12	forward
+3		right
+5 12	forward
+3		right
+5 14	forward
+3		right
+5 14	forward
+9		end
