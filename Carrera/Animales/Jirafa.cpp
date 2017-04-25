@@ -1,22 +1,22 @@
-#include "Camello.h"
+#include "Jirafa.h"
 #include <cmath>
 #include <cstdlib>
 
-Camello::Camello(string respuesta): Animales(respuesta){}
+Jirafa::Jirafa(string respuesta): Animales(respuesta){}
 
-void Camello::avanzar(int margen)
+void Jirafa::avanzar(int margen)
 {
     int avanzando,probabilidad;
     avanzando=floor((rand()%margen)+1);
     probabilidad=floor(rand()%100);
-    if(probabilidad>70)
-        avanzando=0-avanzando;
+    if(probabilidad>40)
+        avanzando=avanzando;
     else
-        avanzando=avanzando*5/2;
+        avanzando=avanzando*5/3;
     avanzarA(avanzando);
 }
 
-bool Camello::ganador()
+bool Jirafa::ganador()
 {
     if(obtPos()>500)
         return true;
