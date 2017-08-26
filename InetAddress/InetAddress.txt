@@ -1,0 +1,10 @@
+www.facebook.com
+173.252.89.132
+www.cisco.com
+23.0.38.79
+www.google.com
+172.217.0.288
+www.twitter.com
+104.244.42.1
+www.itesm.mx
+200.34.200.92
